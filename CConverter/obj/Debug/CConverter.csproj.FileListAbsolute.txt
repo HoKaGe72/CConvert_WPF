@@ -1,0 +1,105 @@
+C:\Users\rusad\OneDrive\Рабочий стол\ПП\CConverter\CConverter\bin\Debug\CConverter.exe.config
+C:\Users\rusad\OneDrive\Рабочий стол\ПП\CConverter\CConverter\bin\Debug\CConverter.exe
+C:\Users\rusad\OneDrive\Рабочий стол\ПП\CConverter\CConverter\bin\Debug\CConverter.pdb
+C:\Users\rusad\OneDrive\Рабочий стол\ПП\CConverter\CConverter\obj\Debug\CConverter.csproj.AssemblyReference.cache
+C:\Users\rusad\OneDrive\Рабочий стол\ПП\CConverter\CConverter\obj\Debug\CConverter.csproj.SuggestedBindingRedirects.cache
+C:\Users\rusad\OneDrive\Рабочий стол\ПП\CConverter\CConverter\obj\Debug\MainWindow.g.cs
+C:\Users\rusad\OneDrive\Рабочий стол\ПП\CConverter\CConverter\obj\Debug\App.g.cs
+C:\Users\rusad\OneDrive\Рабочий стол\ПП\CConverter\CConverter\obj\Debug\CConverter_MarkupCompile.cache
+C:\Users\rusad\OneDrive\Рабочий стол\ПП\CConverter\CConverter\obj\Debug\CConverter_MarkupCompile.lref
+C:\Users\rusad\OneDrive\Рабочий стол\ПП\CConverter\CConverter\obj\Debug\MainWindow.baml
+C:\Users\rusad\OneDrive\Рабочий стол\ПП\CConverter\CConverter\obj\Debug\CConverter.g.resources
+C:\Users\rusad\OneDrive\Рабочий стол\ПП\CConverter\CConverter\obj\Debug\CConverter.Properties.Resources.resources
+C:\Users\rusad\OneDrive\Рабочий стол\ПП\CConverter\CConverter\obj\Debug\CConverter.csproj.GenerateResource.cache
+C:\Users\rusad\OneDrive\Рабочий стол\ПП\CConverter\CConverter\obj\Debug\CConverter.csproj.CoreCompileInputs.cache
+C:\Users\rusad\OneDrive\Рабочий стол\ПП\CConverter\CConverter\obj\Debug\CConverter.exe
+C:\Users\rusad\OneDrive\Рабочий стол\ПП\CConverter\CConverter\obj\Debug\CConverter.pdb
+C:\Users\rusad\OneDrive\Рабочий стол\ПП\CConverter\CConverter\bin\Debug\EntityFramework.dll
+C:\Users\rusad\OneDrive\Рабочий стол\ПП\CConverter\CConverter\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rusad\OneDrive\Рабочий стол\ПП\CConverter\CConverter\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\rusad\OneDrive\Рабочий стол\ПП\CConverter\CConverter\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\rusad\OneDrive\Рабочий стол\ПП\CConverter\CConverter\bin\Debug\System.Buffers.dll
+C:\Users\rusad\OneDrive\Рабочий стол\ПП\CConverter\CConverter\bin\Debug\System.Data.SQLite.dll
+C:\Users\rusad\OneDrive\Рабочий стол\ПП\CConverter\CConverter\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\rusad\OneDrive\Рабочий стол\ПП\CConverter\CConverter\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\rusad\OneDrive\Рабочий стол\ПП\CConverter\CConverter\bin\Debug\System.Memory.dll
+C:\Users\rusad\OneDrive\Рабочий стол\ПП\CConverter\CConverter\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\rusad\OneDrive\Рабочий стол\ПП\CConverter\CConverter\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\rusad\OneDrive\Рабочий стол\ПП\CConverter\CConverter\bin\Debug\EntityFramework.xml
+C:\Users\rusad\OneDrive\Рабочий стол\ПП\CConverter\CConverter\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rusad\OneDrive\Рабочий стол\ПП\CConverter\CConverter\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\rusad\OneDrive\Рабочий стол\ПП\CConverter\CConverter\bin\Debug\System.Buffers.xml
+C:\Users\rusad\OneDrive\Рабочий стол\ПП\CConverter\CConverter\bin\Debug\System.Data.SQLite.xml
+C:\Users\rusad\OneDrive\Рабочий стол\ПП\CConverter\CConverter\bin\Debug\System.Memory.xml
+C:\Users\rusad\OneDrive\Рабочий стол\ПП\CConverter\CConverter\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\rusad\OneDrive\Рабочий стол\ПП\CConverter\CConverter\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\rusad\OneDrive\Рабочий стол\ПП\CConverter\CConverter\obj\Debug\CConverter.csproj.CopyComplete
+C:\Users\rusad\OneDrive\Рабочий стол\ПП\CConverter\CConverter\obj\Debug\KursValue.g.cs
+C:\Users\rusad\OneDrive\Рабочий стол\ПП\CConverter\CConverter\obj\Debug\KursValue.baml
+C:\Users\rusad\OneDrive\Рабочий стол\ПП\CConverter\CConverter\bin\Debug\LiveCharts.dll
+C:\Users\rusad\OneDrive\Рабочий стол\ПП\CConverter\CConverter\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\rusad\OneDrive\Рабочий стол\ПП\CConverter\CConverter\bin\Debug\OxyPlot.dll
+C:\Users\rusad\OneDrive\Рабочий стол\ПП\CConverter\CConverter\bin\Debug\OxyPlot.Wpf.dll
+C:\Users\rusad\OneDrive\Рабочий стол\ПП\CConverter\CConverter\bin\Debug\OxyPlot.Wpf.Shared.dll
+C:\Users\rusad\OneDrive\Рабочий стол\ПП\CConverter\CConverter\bin\Debug\LiveCharts.pdb
+C:\Users\rusad\OneDrive\Рабочий стол\ПП\CConverter\CConverter\bin\Debug\LiveCharts.xml
+C:\Users\rusad\OneDrive\Рабочий стол\ПП\CConverter\CConverter\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\rusad\OneDrive\Рабочий стол\ПП\CConverter\CConverter\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\rusad\OneDrive\Рабочий стол\ПП\CConverter\CConverter\bin\Debug\OxyPlot.xml
+C:\Users\rusad\OneDrive\Рабочий стол\ПП\CConverter\CConverter\bin\Debug\OxyPlot.Wpf.xml
+C:\Users\rusad\OneDrive\Рабочий стол\ПП\CConverter\CConverter\bin\Debug\OxyPlot.Wpf.Shared.xml
+C:\Users\rusad\OneDrive\Рабочий стол\ПП\CConverter\CConverter\obj\Debug\Statistica.g.cs
+C:\Users\rusad\OneDrive\Рабочий стол\ПП\CConverter\CConverter\obj\Debug\Statistica.baml
+C:\Users\rusad\OneDrive\Рабочий стол\ПП\CConverter\CConverter\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\rusad\OneDrive\Рабочий стол\КУРС\3 курс\2 семестр\ПП\CConverter\CConverter\bin\Debug\CConverter.exe.config
+C:\Users\rusad\OneDrive\Рабочий стол\КУРС\3 курс\2 семестр\ПП\CConverter\CConverter\bin\Debug\CConverter.exe
+C:\Users\rusad\OneDrive\Рабочий стол\КУРС\3 курс\2 семестр\ПП\CConverter\CConverter\bin\Debug\CConverter.pdb
+C:\Users\rusad\OneDrive\Рабочий стол\КУРС\3 курс\2 семестр\ПП\CConverter\CConverter\bin\Debug\EntityFramework.dll
+C:\Users\rusad\OneDrive\Рабочий стол\КУРС\3 курс\2 семестр\ПП\CConverter\CConverter\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rusad\OneDrive\Рабочий стол\КУРС\3 курс\2 семестр\ПП\CConverter\CConverter\bin\Debug\LiveCharts.dll
+C:\Users\rusad\OneDrive\Рабочий стол\КУРС\3 курс\2 семестр\ПП\CConverter\CConverter\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\rusad\OneDrive\Рабочий стол\КУРС\3 курс\2 семестр\ПП\CConverter\CConverter\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\rusad\OneDrive\Рабочий стол\КУРС\3 курс\2 семестр\ПП\CConverter\CConverter\bin\Debug\OxyPlot.dll
+C:\Users\rusad\OneDrive\Рабочий стол\КУРС\3 курс\2 семестр\ПП\CConverter\CConverter\bin\Debug\OxyPlot.Wpf.dll
+C:\Users\rusad\OneDrive\Рабочий стол\КУРС\3 курс\2 семестр\ПП\CConverter\CConverter\bin\Debug\OxyPlot.Wpf.Shared.dll
+C:\Users\rusad\OneDrive\Рабочий стол\КУРС\3 курс\2 семестр\ПП\CConverter\CConverter\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\rusad\OneDrive\Рабочий стол\КУРС\3 курс\2 семестр\ПП\CConverter\CConverter\bin\Debug\System.Buffers.dll
+C:\Users\rusad\OneDrive\Рабочий стол\КУРС\3 курс\2 семестр\ПП\CConverter\CConverter\bin\Debug\System.Data.SQLite.dll
+C:\Users\rusad\OneDrive\Рабочий стол\КУРС\3 курс\2 семестр\ПП\CConverter\CConverter\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\rusad\OneDrive\Рабочий стол\КУРС\3 курс\2 семестр\ПП\CConverter\CConverter\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\rusad\OneDrive\Рабочий стол\КУРС\3 курс\2 семестр\ПП\CConverter\CConverter\bin\Debug\System.Memory.dll
+C:\Users\rusad\OneDrive\Рабочий стол\КУРС\3 курс\2 семестр\ПП\CConverter\CConverter\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\rusad\OneDrive\Рабочий стол\КУРС\3 курс\2 семестр\ПП\CConverter\CConverter\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\rusad\OneDrive\Рабочий стол\КУРС\3 курс\2 семестр\ПП\CConverter\CConverter\bin\Debug\EntityFramework.xml
+C:\Users\rusad\OneDrive\Рабочий стол\КУРС\3 курс\2 семестр\ПП\CConverter\CConverter\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rusad\OneDrive\Рабочий стол\КУРС\3 курс\2 семестр\ПП\CConverter\CConverter\bin\Debug\LiveCharts.pdb
+C:\Users\rusad\OneDrive\Рабочий стол\КУРС\3 курс\2 семестр\ПП\CConverter\CConverter\bin\Debug\LiveCharts.xml
+C:\Users\rusad\OneDrive\Рабочий стол\КУРС\3 курс\2 семестр\ПП\CConverter\CConverter\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\rusad\OneDrive\Рабочий стол\КУРС\3 курс\2 семестр\ПП\CConverter\CConverter\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\rusad\OneDrive\Рабочий стол\КУРС\3 курс\2 семестр\ПП\CConverter\CConverter\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\rusad\OneDrive\Рабочий стол\КУРС\3 курс\2 семестр\ПП\CConverter\CConverter\bin\Debug\OxyPlot.xml
+C:\Users\rusad\OneDrive\Рабочий стол\КУРС\3 курс\2 семестр\ПП\CConverter\CConverter\bin\Debug\OxyPlot.Wpf.xml
+C:\Users\rusad\OneDrive\Рабочий стол\КУРС\3 курс\2 семестр\ПП\CConverter\CConverter\bin\Debug\OxyPlot.Wpf.Shared.xml
+C:\Users\rusad\OneDrive\Рабочий стол\КУРС\3 курс\2 семестр\ПП\CConverter\CConverter\bin\Debug\System.Buffers.xml
+C:\Users\rusad\OneDrive\Рабочий стол\КУРС\3 курс\2 семестр\ПП\CConverter\CConverter\bin\Debug\System.Data.SQLite.xml
+C:\Users\rusad\OneDrive\Рабочий стол\КУРС\3 курс\2 семестр\ПП\CConverter\CConverter\bin\Debug\System.Memory.xml
+C:\Users\rusad\OneDrive\Рабочий стол\КУРС\3 курс\2 семестр\ПП\CConverter\CConverter\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\rusad\OneDrive\Рабочий стол\КУРС\3 курс\2 семестр\ПП\CConverter\CConverter\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\rusad\OneDrive\Рабочий стол\КУРС\3 курс\2 семестр\ПП\CConverter\CConverter\obj\Debug\CConverter.csproj.AssemblyReference.cache
+C:\Users\rusad\OneDrive\Рабочий стол\КУРС\3 курс\2 семестр\ПП\CConverter\CConverter\obj\Debug\CConverter.csproj.SuggestedBindingRedirects.cache
+C:\Users\rusad\OneDrive\Рабочий стол\КУРС\3 курс\2 семестр\ПП\CConverter\CConverter\obj\Debug\KursValue.g.cs
+C:\Users\rusad\OneDrive\Рабочий стол\КУРС\3 курс\2 семестр\ПП\CConverter\CConverter\obj\Debug\MainWindow.g.cs
+C:\Users\rusad\OneDrive\Рабочий стол\КУРС\3 курс\2 семестр\ПП\CConverter\CConverter\obj\Debug\Statistica.g.cs
+C:\Users\rusad\OneDrive\Рабочий стол\КУРС\3 курс\2 семестр\ПП\CConverter\CConverter\obj\Debug\App.g.cs
+C:\Users\rusad\OneDrive\Рабочий стол\КУРС\3 курс\2 семестр\ПП\CConverter\CConverter\obj\Debug\CConverter_MarkupCompile.cache
+C:\Users\rusad\OneDrive\Рабочий стол\КУРС\3 курс\2 семестр\ПП\CConverter\CConverter\obj\Debug\CConverter_MarkupCompile.lref
+C:\Users\rusad\OneDrive\Рабочий стол\КУРС\3 курс\2 семестр\ПП\CConverter\CConverter\obj\Debug\KursValue.baml
+C:\Users\rusad\OneDrive\Рабочий стол\КУРС\3 курс\2 семестр\ПП\CConverter\CConverter\obj\Debug\MainWindow.baml
+C:\Users\rusad\OneDrive\Рабочий стол\КУРС\3 курс\2 семестр\ПП\CConverter\CConverter\obj\Debug\Statistica.baml
+C:\Users\rusad\OneDrive\Рабочий стол\КУРС\3 курс\2 семестр\ПП\CConverter\CConverter\obj\Debug\CConverter.g.resources
+C:\Users\rusad\OneDrive\Рабочий стол\КУРС\3 курс\2 семестр\ПП\CConverter\CConverter\obj\Debug\CConverter.Properties.Resources.resources
+C:\Users\rusad\OneDrive\Рабочий стол\КУРС\3 курс\2 семестр\ПП\CConverter\CConverter\obj\Debug\CConverter.csproj.GenerateResource.cache
+C:\Users\rusad\OneDrive\Рабочий стол\КУРС\3 курс\2 семестр\ПП\CConverter\CConverter\obj\Debug\CConverter.csproj.CoreCompileInputs.cache
+C:\Users\rusad\OneDrive\Рабочий стол\КУРС\3 курс\2 семестр\ПП\CConverter\CConverter\obj\Debug\CConverter.csproj.CopyComplete
+C:\Users\rusad\OneDrive\Рабочий стол\КУРС\3 курс\2 семестр\ПП\CConverter\CConverter\obj\Debug\CConverter.exe
+C:\Users\rusad\OneDrive\Рабочий стол\КУРС\3 курс\2 семестр\ПП\CConverter\CConverter\obj\Debug\CConverter.pdb
